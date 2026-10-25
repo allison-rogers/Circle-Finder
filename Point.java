@@ -1,3 +1,5 @@
+//This file was given to students as part of the assignments and is not my work, but is needed for the other files to run--this is why it is included
+
 
 // class Point
 
